@@ -1,4 +1,4 @@
-# clusterfuzzlite_int
+# clusterfuzzlite Example
 Try out clusterfuzzlite - here are the steps that were followed
 
 ## A minimal fuzz test
